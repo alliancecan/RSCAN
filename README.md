@@ -22,7 +22,7 @@ We invite you to join our two dedicated communication platforms to exchange idea
    Subscribe to our mailing list to stay informed about community updates, events, and opportunities:  
    [**Join the Mailing List**](https://rscan.topicbox.com)
 
-For general inquiries about research software at the Alliance, please contact us at **rs-lr@alliancecan.ca**.
+For general inquiries about research software at the Digital Research Alliance of Canada, please contact us at **rs-lr@alliancecan.ca**.
 
 ## Get Involved
 
