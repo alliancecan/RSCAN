@@ -10,7 +10,7 @@ RSCAN is supported by the Digital Research Alliance of Canada and serves as a pl
 - **Advocate**: Highlight the critical role of RSEs/RSPs in advancing research and innovation.
 - **Provide resources**: Deliver tools, training, and materials to support career development, education, and technical expertise.
 
-Since its establishment on May 15, 2024, RSCAN has aligned its mission with the objectives of the [National Research Software Strategy](https://zenodo.org/records/10214741), published on August 25, 2023. For more information about the Digital Research Alliance of Canada and its Research Services, visit the [RS page](https://alliancecan.ca/en/services/research-software).
+Since its establishment on May 15, 2024, RSCAN has aligned its mission with the objectives of the [National Research Software Strategy](https://zenodo.org/records/10214741), published on August 25, 2023. For more information about the Digital Research Alliance of Canada and its Research Software Services, visit the [RS page](https://alliancecan.ca/en/services/research-software).
 
 ## Communication Channels
 
