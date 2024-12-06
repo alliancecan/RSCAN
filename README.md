@@ -6,7 +6,7 @@ Welcome to **RSCAN**, the hub for Canadian Research Software professionals to co
 
 RSCAN is supported by the Digital Research Alliance of Canada and serves as a platform for communication and resource sharing. We aim to:
 
-- **Thrive the community**: Foster collaboration, knowledge sharing, and professional connections among RSEs and RSPs.
+- **Build a thriving community**: Foster collaboration, knowledge sharing, and professional connections among RSEs and RSPs.
 - **Advocate**: Highlight the critical role of RSEs/RSPs in advancing research and innovation.
 - **Provide resources**: Deliver tools, training, and materials to support career development, education, and technical expertise.
 
